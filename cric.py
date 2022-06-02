@@ -92,6 +92,6 @@ while(True):
             webbrowser.open(score_board)
         else:
             pass
-    sleep(600)
+    sleep(600) #notification time
         
 
